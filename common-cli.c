@@ -1,4 +1,4 @@
-/*
+////*
  * generic CLI test helper functions
  *
  * Copyright (C) 2015 by David Lamparter,
